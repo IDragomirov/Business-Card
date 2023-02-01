@@ -1,0 +1,119 @@
+* {
+    box-sizing: border-box;
+}
+
+
+body{
+    background-color: #1C1C1C;
+    font-family: Inter, sans-serif;
+}
+
+div.background--color {
+    background-color: #23252C;
+    width: 550px;
+    height: auto;
+    display: flex;
+   flex-direction: column;
+    align-items: center;
+    padding: 9px 13px 9px 11px;
+    border-radius: 10px;
+    
+}
+img.UserPhoto {
+    height: 317px;
+    width: 317px;
+    border-radius: 10px 
+}
+.description h3 {
+    text-align: center;
+    color: #FFFFFF;
+    font-family: 'Inter';
+    font-size: 25px;
+    line-height: 30px; 
+
+}
+.description p{ 
+        text-align: center;
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14.8px;
+        line-height: 15px;
+        text-align: center;
+        color: #F3BF99;
+
+}
+.button--container{
+    text-align: center;
+    
+
+}
+.e-mail{
+    margin-right: 17px;
+}
+.button--container button {
+    width: 115px;
+    height: 45px;
+    background-color: #FFFFFF;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+  
+
+
+}
+button.linked {
+     background-color: #5093E2;
+}
+.button--container button i{
+    margin-right: 5px;
+}
+ .button--container button p {
+     margin: auto;
+  
+ }
+ .more--about--me, .interest--box{
+height: 317px;
+width: 317px;
+font-size: 15px;
+color: #DCDCDC;
+ }
+ .more--about--me h1, .interest--box h1{
+     color: #FFFFFF;
+     font-size: 19px;
+ }
+ .more--about--me p, .interest--box p{
+     
+ }
+ 
+ 
+ .logo--container {
+   
+     color:#DCDCDC;
+   
+ }
+  .logo--container i {
+      margin-right: 20px;
+    font-size: 25px;
+  }
+ 
+ .footer-box {
+    background-color:  #1C1C1C;
+ width: 100%;
+ height: 105px;
+ text-align: center;
+ border-radius: 10px;
+ color: white;
+
+ } 
+ .footer-box p{
+     font-size: 14px
+ }
+ 
+ .interest--box{
+     margin-top: -60px;
+ }
+ 
+ .footer-box{
+     margin-top: -100px
+ }
+ 
